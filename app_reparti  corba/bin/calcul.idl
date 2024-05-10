@@ -1,0 +1,7 @@
+module CalculModule {
+    interface Calcul {
+        double addition(in double a, in double b);
+        double multiplication(in double a, in double b);
+        double soustraction(in double a, in double b);
+      
+};
